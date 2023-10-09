@@ -1,0 +1,1 @@
+puts "Classe do valor 'true': #{true.class};\nClasse do valor 'false': #{false.class};"
